@@ -1,16 +1,16 @@
-/**{
-  /** box-sizing : border-box räknar med border, margin i din width och height */
+*{
+  /*box-sizing : border-box räknar med border, margin i din width och height 
   /** Content-box adderar påpadding, border och margin på din width och height */
   /**box-sizing: content-box;****** för index coh flex filer */
-  /*box-sizing: border-box;
+  box-sizing: border-box;
 }
-body {
-  /**background-color: beige;*/
+/*body {
+  background-color: beige;
   /*color: black;*/
  /* margin: 0%;
   /*width: 100vw;*/
  /* height: 100vh;*/
-/*S } */
+/*S } 
 /*********************************** för---index.html,fil
 h1 {
   color: blue;
